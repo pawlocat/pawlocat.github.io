@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
 body{
+  font-family: 'JetBrains Mono', monospace;
   background-image: url(/img/bg.jpg);
   background-repeat: no-repeat;
   margin: 0px;
