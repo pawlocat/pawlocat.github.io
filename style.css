@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+body{
+  background-image: url(/img/bg.jpg);
+  background-repeat: no-repeat;
+  margin: 0px;
+  padding: 200px;
+}
+.middle{
+  text-align: center;
+}
+.des{
+  color:white;
+  text-shadow: 0.1em 0.1em 0.05em #333
+}
+.avatar img{
+  width: 256px;
+  height: 256px;
+  object-fit: cover;
+  border-radius: 50%;
+  overflow: auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
+}
+.card{
+  display: flex;
+  width: auto;
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+.card img{
+  max-width: 100px;
+  max-height: 100px;
+  margin-right: 20px;
+}
+.card a{
+  text-decoration: none;
+  color: black;
+}
