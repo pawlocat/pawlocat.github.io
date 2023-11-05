@@ -7,13 +7,16 @@ body{
   padding: 200px;
 }
 .middle{
+  font-family: 'JetBrains Mono', monospace;
   text-align: center;
 }
 .des{
+  font-family: 'JetBrains Mono', monospace;
   color:white;
   text-shadow: 0.1em 0.1em 0.05em #333
 }
 .avatar img{
+  font-family: 'JetBrains Mono', monospace;
   width: 256px;
   height: 256px;
   object-fit: cover;
@@ -22,6 +25,7 @@ body{
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
 }
 .card{
+  font-family: 'JetBrains Mono', monospace;
   display: flex;
   width: auto;
   margin: 20px;
@@ -36,6 +40,7 @@ body{
   margin-right: 20px;
 }
 .card a{
+  font-family: 'JetBrains Mono', monospace;
   text-decoration: none;
   color: black;
 }
